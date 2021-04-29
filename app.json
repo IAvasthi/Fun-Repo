@@ -1,6 +1,6 @@
 {
-    "name": "Python-Drive-Bot",
-    "description": "Telegram-Direct-Mirror to G-Drive",
+    "name": "Fun Bot",
+    "description": "Fun for ISHAN AVASTHI",
     "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
     "keywords": [
       "telegram",
@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://t.me/linux_repo",
-    "success_url": "https://t.me/linux_repo",
+    "repository": "https://github.com/IAvasthi/Fun-Repo",
+    "website": "https://t.me/IshanAvasthi",
+    "success_url": "https://t.me/IshanAvasthi",
     "stack": "container",
     "env": {
       "ENV": {
